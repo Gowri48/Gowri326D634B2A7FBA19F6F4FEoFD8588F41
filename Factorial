@@ -1,0 +1,12 @@
+#1.1Implement a recursive function to calculate the factorial of a given number
+
+def fact fact_rec(n):
+ifn==0 or n==1:
+return 1
+else:
+return n* fact_ rec (n_1)
+
+number=2
+res=fact_rec(number)
+
+print (”the factorial of{}is{}", format (number;res))
